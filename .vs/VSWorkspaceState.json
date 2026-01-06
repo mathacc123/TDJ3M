@@ -1,8 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\04a-pratique-h1-h6"
+    "\\03-liens",
+    "\\03-liens\\dossier1",
+    "\\03-liens\\dossier2",
+    "\\05-ol-ul-li",
+    "\\06-table-tr-th-td"
   ],
-  "SelectedNode": "\\04a-pratique-h1-h6\\equipes-nba.html",
+  "SelectedNode": "\\06-table-tr-th-td\\table.html",
   "PreviewInSolutionExplorer": false
 }
