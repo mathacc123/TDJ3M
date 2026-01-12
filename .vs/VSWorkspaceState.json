@@ -4,9 +4,13 @@
     "\\03-liens",
     "\\03-liens\\dossier1",
     "\\03-liens\\dossier2",
+    "\\04a-pratique-h1-h6",
     "\\05-ol-ul-li",
-    "\\06-table-tr-th-td"
+    "\\06-table-tr-th-td",
+    "\\07-video-audio",
+    "\\08a-quiz-HTML",
+    "\\08a-quiz-HTML\\Images"
   ],
-  "SelectedNode": "\\06-table-tr-th-td\\table.html",
+  "SelectedNode": "\\07-video-audio\\media.html",
   "PreviewInSolutionExplorer": false
 }
