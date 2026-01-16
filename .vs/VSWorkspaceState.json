@@ -2,15 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\03-liens",
-    "\\03-liens\\dossier1",
     "\\03-liens\\dossier2",
     "\\04a-pratique-h1-h6",
     "\\05-ol-ul-li",
     "\\06-table-tr-th-td",
     "\\07-video-audio",
     "\\08a-quiz-HTML",
-    "\\08a-quiz-HTML\\Images"
+    "\\08b-avec-selecteurs",
+    "\\09-modele-de-boite"
   ],
-  "SelectedNode": "\\07-video-audio\\media.html",
+  "SelectedNode": "\\09-modele-de-boite\\boite.html",
   "PreviewInSolutionExplorer": false
 }
