@@ -2,15 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\03-liens",
-    "\\03-liens\\dossier2",
-    "\\04a-pratique-h1-h6",
-    "\\05-ol-ul-li",
+    "\\03-liens\\dossier1",
+    "\\03-liens\\images",
     "\\06-table-tr-th-td",
-    "\\07-video-audio",
-    "\\08a-quiz-HTML",
     "\\08b-avec-selecteurs",
-    "\\09-modele-de-boite"
+    "\\09-modele-de-boite",
+    "\\10-flexbox",
+    "\\Project Final D",
+    "\\Project Final D\\Images"
   ],
-  "SelectedNode": "\\09-modele-de-boite\\boite.html",
+  "SelectedNode": "\\Project Final D\\syle.css",
   "PreviewInSolutionExplorer": false
 }
